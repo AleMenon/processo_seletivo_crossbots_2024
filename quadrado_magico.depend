@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1729173960 source:c:\users\alexandre\desktop\files\3_periodo\processo_seletivo_crossbots\quadrado_magico\quadrado_magico.c
-	"quadrado_magico.h"
-
-1729173430 c:\users\alexandre\desktop\files\3_periodo\processo_seletivo_crossbots\quadrado_magico\quadrado_magico.h
-	<stdio.h>
-	<stdlib.h>
-
