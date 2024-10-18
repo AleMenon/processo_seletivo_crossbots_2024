@@ -7,7 +7,7 @@
 
 int main(){
     int ordem, soma_magica;
-    char str[301];
+    char str[500];
     int **matriz;
 
     /*Coleta dos dados necessários*/
