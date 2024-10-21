@@ -15,7 +15,7 @@ int main(){
     scanf("%d", &ordem);
     getchar();
     printf("Digite os elementos da matriz: ");
-    fgets(str, 301, stdin);
+    fgets(str, 500, stdin);
 
     /*Conversão de String para matriz e verificação*/
     matriz=conversao_string_matriz(ordem, str);
